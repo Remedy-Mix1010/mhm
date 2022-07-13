@@ -1,0 +1,30 @@
+body{
+    background-color: #4a8c5c;
+    font-family: 'Patrick Hand', cursive;
+}
+.froggy{
+    background-color: #30633e;
+    width: 100%;
+}
+.note{
+    font-size: 14px;
+    text-align: center;
+    color: black;
+}
+.PurpleEmo{
+    color: white;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color:black ;
+}
+canvas{
+    background-color: #2a753f;
+    border-color: black;
+    border-width: 3px;
+    border-style: dotted;
+    margin-left: 200px;
+    margin-top: 32px;
+
+}
